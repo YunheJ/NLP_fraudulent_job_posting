@@ -1,4 +1,4 @@
-# Fake Job Posting
+# Fake Job Posting Classification
 
 Job search is a hard and struggling process for each graduate. It's too upset that sometimes the job posting is fake and even plan to steal money from students without income.
 
