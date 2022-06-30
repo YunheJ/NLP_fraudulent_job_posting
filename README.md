@@ -14,7 +14,7 @@ Model Input: combined job description, requirements and benifits.</br>
 Train-Valid-Test split: 70%-15%-15%. Use test data to evaluate performance across different models.</br>
 * CNN
 * RNN
-* BERT
+* BERT</br>
 Performance Comparison</br>
 <img width="540" alt="Screen Shot 2022-06-30 at 11 04 40 AM" src="https://user-images.githubusercontent.com/102109674/176746874-6651b8d7-2e07-42ef-bed6-090dd8ba3aeb.png">
 
