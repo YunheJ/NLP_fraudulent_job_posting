@@ -32,4 +32,6 @@ Model results are aligned with our expectation.</br>
 * Try to integrate the model in email/googl extension to automatically detect the fake postings.
 
 ## Resource
-Notebook: WIP
+Notebook
+* https://github.com/YunheJ/NLP_fraudulent_job_posting/blob/main/Fake-posting-RNN%26CNN.ipynb
+* https://github.com/YunheJ/NLP_fraudulent_job_posting/blob/main/bert_model.ipynb
